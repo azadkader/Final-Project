@@ -24,3 +24,5 @@ Unfortunately there are some problems and discrepancies with FinRL and the Backt
 This will require a lot of work to get all of the insights on point, but the Neural Network Machine learning model works and produces a well trained modell, which need minor improvements in its parameters.
 
 The requirements file is empty because everything will be installed via google collab notebook.
+
+The File has to be imported into a Google Collab Notebook, where it will be mounted and then executed.
