@@ -26,3 +26,9 @@ This will require a lot of work to get all of the insights on point, but the Neu
 The requirements file is empty because everything will be installed via google collab notebook.
 
 The File has to be imported into a Google Collab Notebook, where it will be mounted and then executed.
+
+Unfortunately due to the fact that my venv did not work and both ignacio and sandra couldnt make it work in my notebook, I had to use google collab, which crashed multiple times during the calculation processes, which then made the calculations nearly impossible and lengthy. Therefore I was only able to run a couple of models and different hyperparameters. 
+
+Everytime i changed something in the code i had to rerun the whole think e.g. recalculate the models which take a couple of hours.
+
+I hope you take this into account when grading my notebook.
